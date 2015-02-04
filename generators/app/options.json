@@ -1,0 +1,42 @@
+[
+  {
+    "name": "app-path",
+    "type": "String",
+    "required": false,
+    "desc": "Angular app folder, relative to cwd",
+    "defaults": "src",
+    "save": true
+  },
+  {
+    "name" : "dist-path",
+    "type": "String",
+    "required": false,
+    "desc": "Build destination folder, relative to cwd",
+    "defaults": "build",
+    "save": true
+  },
+  {
+    "name": "test-path",
+    "type": "String",
+    "required": false,
+    "desc": "test specs folder, relative to cwd",
+    "defaults": "test",
+    "save": true
+  },
+  {
+    "name": "tmp-path",
+    "type": "String",
+    "required": false,
+    "desc": "temp build folder serving preprocessed files, relative to cwd",
+    "defaults": ".tmp",
+    "save": true
+  },
+  {
+    "name": "default",
+    "type": "Boolean",
+    "required": false,
+    "desc": "use default configuration",
+    "defaults": false,
+    "save": false
+  }
+]

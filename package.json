@@ -1,0 +1,17 @@
+{
+  "name": "generator-modular-angular",
+  "version": "0.1.0",
+  "description": "",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "~0.18.7",
+    "yosay": "~1.0.2",
+    "chalk": "~0.5.1",
+    "lodash": "~3.0.0",
+    "slash": "~1.0.0"
+  },
+  "author": "Jody Kemsley",
+  "license": "MIT"
+}

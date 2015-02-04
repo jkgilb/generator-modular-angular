@@ -1,0 +1,18 @@
+{
+  "index": "./<%= paths.src %>/index.php",
+  "htmltemplates": "./<%= paths.src %>/app/**/*.tpl.html",
+  "less": "./<%= paths.src %>/assets/less/styles.less",
+  "lessDir": "./<%= paths.src %>/assets/less/*.less",
+  "js": [
+    "./<%= paths.src %>/app/**/*module*.js",
+    "./<%= paths.src %>/app/**/*.js"
+  ],
+  "specs": [
+    "./<%= paths.test %>/specs/*.spec.js"
+  ],
+  "images": [
+    "./<%= paths.src %>/assets/images/**/*"
+  ],
+  "report": "./report/",
+  "build": "./<%= paths.dist %>/"
+}

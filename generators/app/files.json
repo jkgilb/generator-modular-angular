@@ -1,0 +1,27 @@
+{
+  "configFiles": {
+    "_package.json": "package.json",
+    "_.gitignore": ".gitignore",
+    "gulp.config.json": "gulp.config.json",
+    "src/index.html": "src/index.html"
+  },
+  "templateFiles": [
+    "src/app/app.module.js",
+    "src/app/core/core.module.js",
+    "src/app/core/config/core.config.module.js",
+    "src/app/core/config/core.config.configuration.js",
+    "src/app/core/config/core.config.constant.js",
+    "src/app/core/layout/core.layout.module.js",
+    "src/app/core/layout/core.layout.route.js",
+    "src/app/core/layout/core.layout.controller.js",
+    "src/app/core/layout/core.layout.tpl.html",
+    "src/app/page/page.module.js",
+    "src/app/page/page.route.js",
+    "src/app/page/page.controller.js",
+    "src/app/page/page.tpl.html"
+  ],
+  "staticFiles": [
+    ".jscsrc",
+    ".jshintrc"
+  ]
+}
