@@ -18,7 +18,13 @@
     "src/app/page/page.module.js",
     "src/app/page/page.route.js",
     "src/app/page/page.controller.js",
-    "src/app/page/page.tpl.html"
+    "src/app/page/page.tpl.html",
+    "src/app/common/services/services.module.js",
+    "src/app/common/services/services.test.js",
+    "src/app/common/directives/directives.module.js",
+    "src/app/common/directives/test/test.directive.js",
+    "src/app/common/directives/test/test.controller.js",
+    "src/app/common/directives/test/test.tpl.html"
   ],
   "staticFiles": [
     ".jscsrc",

@@ -7,7 +7,7 @@
          */
         '<%= appName %>.core',
         '<%= appName %>.directives',
-        '<%= appName %>.models',
+        '<%= appName %>.services',
         /*
          * Feature areas
          */
