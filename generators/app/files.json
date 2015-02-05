@@ -3,6 +3,7 @@
     "_package.json": "package.json",
     "_.gitignore": ".gitignore",
     "gulp.config.json": "gulp.config.json",
+    "_gulpfile.js": "gulpfile.js",
     "src/index.html": "src/index.html"
   },
   "templateFiles": [
