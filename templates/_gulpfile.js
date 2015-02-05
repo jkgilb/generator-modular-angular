@@ -1,6 +1,5 @@
 /* jshint camelcase:false */
 var gulp = require('gulp');
-var browserSync = require('browser-sync');
 var runSequence = require('run-sequence');
 var del = require('del');
 var glob = require('glob');
