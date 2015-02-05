@@ -29,6 +29,9 @@
   ],
   "staticFiles": [
     ".jscsrc",
-    ".jshintrc"
+    ".jshintrc",
+    "src/assets/less/page.less",
+    "src/assets/less/styles.less",
+    "src/assets/less/variables.less"
   ]
 }
